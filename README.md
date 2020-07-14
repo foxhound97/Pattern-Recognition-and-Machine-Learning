@@ -1,7 +1,7 @@
 # Pattern-Recognition-and-Machine-Learning
 Assingments :
 
-1) Plotting histogram from sampled obtained from univariate normal distribution, Implementing CLT, Using Box Muller method to achieve normal distribution
+1) Plotting histogram from samples obtained from univariate normal distribution, Implementing CLT, Using Box Muller method to achieve normal distribution
 
 2) Implementation of Bayes Decision Rule
 
