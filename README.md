@@ -18,3 +18,9 @@ Assingments :
 8) Logistic Regression
 
 9) Soft Clustering using GMM
+
+Project:
+
+Implemented paper titled "Marginal Value of Adaptive Gradient Methods in Machine Learning", published at NIPS 2017.
+
+-- Compared generalizing capabilities of Adaptive and Non-Adaptive Gradient methods on testing data. Concluded that, however Adaptive methods gives excellent acurracy in training set, but fails to acheive high accuracy in testing set as comapered to their Non-Adaptive counterparts.
